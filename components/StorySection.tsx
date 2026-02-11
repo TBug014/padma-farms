@@ -11,7 +11,7 @@ export const StorySection: React.FC = () => {
         overlayOpacity={0.7}
       />
 
-      <div className="relative z-10 max-w-5xl mx-auto text-center h-full flex flex-col justify-center">
+      <div className="relative z-10 max-w s-5xl mx-auto text-center h-full flex flex-col justify-center">
         <motion.div 
             initial={{ opacity: 0, scale: 0.95 }}
             whileInView={{ opacity: 1, scale: 1 }}
@@ -19,7 +19,7 @@ export const StorySection: React.FC = () => {
             className="border-y border-white/10 py-12 md:py-20 backdrop-blur-sm bg-earth-900/20"
         >
             <span className="uppercase tracking-[0.3em] text-xs text-gold-400 mb-6 block font-medium">
-            The Padma Standard
+            The Padma Farms
             </span>
             
             <h2 className="font-serif text-4xl md:text-6xl text-cream mb-10 leading-tight">

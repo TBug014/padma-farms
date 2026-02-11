@@ -45,7 +45,7 @@ export const ContactSection: React.FC = () => {
                             <div>
                                 <h3 className="font-serif text-lg text-cream mb-1">Address</h3>
                                 <p className="font-sans text-white/60 text-sm leading-relaxed">
-                                    Rampur Gaon<br/>
+                                    Merapani<br/>
                                     Golaghat Assam, 785705
                                 </p>
                             </div>
@@ -58,7 +58,7 @@ export const ContactSection: React.FC = () => {
                             <div>
                                 <h3 className="font-serif text-lg text-cream mb-1">Inquiries</h3>
                                 <p className="font-sans text-white/60 text-sm hover:text-white transition-colors cursor-pointer">abc@padmafarms.com</p>
-                                <p className="font-sans text-white/60 text-sm hover:text-white transition-colors cursor-pointer">+91 00000000000</p>
+                                <p className="font-sans text-white/60 text-sm hover:text-white transition-colors cursor-pointer">+91 8447166759</p>
                             </div>
                         </div>
                     </div>
